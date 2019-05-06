@@ -2,6 +2,10 @@
 
 > [原始版本](https://golang.org/doc/play/life.go)
 
+## 元胞自动机（CA）
+
+CA的基础其实就是通过计算机的计算，来模拟一个复杂的自然过程（就例如细胞的生存或者是死亡，以及繁殖等行为。
+
 ## wiki
 
 [康威生命游戏](https://zh.wikipedia.org/wiki/%E5%BA%B7%E5%A8%81%E7%94%9F%E5%91%BD%E6%B8%B8%E6%88%8F)
